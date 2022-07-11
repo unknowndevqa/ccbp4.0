@@ -1,4 +1,47 @@
 Day 1 ==> June 11th 2022
 
 Topics:
-1. Intro to OS and Internet
+Intro to OS and Internet
+Hardware, Software and Versions
+Operating Systems
+Networks
+Internet,Client & Server
+Internet Browser
+Introduction to Frontend
+Applications or App
+Mobile Apps
+Responsive web design
+Cross platform
+Parsing and rendering
+
+
+1. Software and Hardware
+
+1a. Software ==> Easily Changeable Functionality
+1b.Software is a set of Instructions to the System
+1c.Operating System is the main software that makes other softwares work with the hardware
+1d.OS is an interface between hardware and software
+
+2. Networks
+
+2a.Internet and Intranet
+2b.LAN,WAN,Routes,Public,Private
+
+3.Application Development
+When we say application, it refers to the software developed for a specific purpose
+Application Developers (Frontend,Backend,Full Stack)
+
+3a. Frontend Technologies
+HTML,CSS,JS - ES9,ReactJS,Flutter
+HTML 5 ==> HypeText Markup Language
+Parsing ==> In the present context,Understanding and Separating out the different components in the document by the browser
+Rendering ==> After parsing the document, the browser with the help of operating system creates and displays what we are supposed to see on the screen
+CSS ==> Cascading Style Sheet
+JavaScript ==> Can change the contents of website dynamically without reloading the entire site
+
+
+
+
+ 
+  
+
