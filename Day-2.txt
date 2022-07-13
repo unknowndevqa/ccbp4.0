@@ -1,0 +1,16 @@
+Day 2 ==> June 12th 2022
+
+Topics:
+Introduction to Backend
+Syntax
+Bug
+Debugging
+Tweaking
+URL==> Uniform Resource Locator
+
+HTML Elements:
+	Heading <h1>
+	Paragraph <p>
+	Buttons <button>
+	
+
