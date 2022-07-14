@@ -1,0 +1,33 @@
+Day 4 ==> 14th July 2022
+
+Topics:
+  	color: blue;
+    font-family: Monoton;
+    font-size: 40px;
+    font-weight: bold;
+    font-style: normal;
+    text-decoration: underline;
+    background-color: lightblue;
+    text-align: center;
+	color: grey;
+	background-image:url("");
+	backgroud-size:cover;
+	border-radius:25px;
+	border-width:0px;
+	border-top-left-radius:25px ;
+    border-top-right-radius:25px ;
+    padding:5px;
+	border-radius: 25px;
+	border-width: 0px;
+	
+*** Introduction to the CSS BOX MODEL ***
+
+==> Height
+==> Width
+==> Padding
+==> Margin
+==> Boarder
+
+** Viewport
+vh ==> height
+vw ==> Width

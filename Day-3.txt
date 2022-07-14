@@ -1,0 +1,24 @@
+Day-3 ==> 13th July 2022
+
+Topics:
+
+CSS Introduction
+CSS Syntax
+HTML Attributes
+Wrapping (<div>)
+
+
+
+CSS Syntax: Ruleset
+
+selector {
+	
+			property1:value1;
+			property2:value2;
+
+		 }
+		 
+HTML Attributes:
+
+<tag attribute = 'value' > SOME TEXT </tag>
+
