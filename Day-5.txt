@@ -1,0 +1,24 @@
+Day-5 ==> 15th July 2022
+
+Topics:
+Reusability
+Bootstrap
+Layout
+
+
+* We can have multiple CSS class names in HTML start tag with seperated spaces
+
+syntax: <tag class='CSSclass1 CSSclass2 ....'>SOME TEXT</tag>
+
+* BOOTSTRAP: Bootstrap is a large collection of predefined reusable code snippets written in HTML, CSS and JS
+
+1. Bootstrap CDN should be given in the HTML head tag
+
+* Methods to design a layout
+
+1. Flexbox
+	1a. Flexbox container
+	2a. Direction (Row/Column)
+	3a. Justify content (Start/Centre/End - ROW/Column)
+2. CSS Grid ( Advanced & Fast growing )
+ 
