@@ -1,0 +1,11 @@
+Day 8th ==> 19th July
+
+Topics:
+1. HTML Attributes:
+a. ID
+b. onclick() = "display('section1)"
+2. lists
+a. Unordered List(ul)
+b. Ordered List(ol)
+CSS: list-style-type: circle,square,none => UL ==> css{unordered-list}
+CSS: list-style-type:lower-roman,lower-alpha ==> ol ==> css{ordered-list}
